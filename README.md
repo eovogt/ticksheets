@@ -1,5 +1,5 @@
 # Overview
-To make a google sheets stock tracker where you can have one editor and have multiple people apply changes that are made into a side document until approved for all or certain cells to be merged into the main document.
+TickSheet a google sheets stock tracker where you can have one editor and have multiple people apply changes that are made into a side document until approved for all or certain cells to be merged into the main document.
 
 # Goals
 Create a platform that can achieve main goal of TickSheets
