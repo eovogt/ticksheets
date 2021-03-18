@@ -9,5 +9,8 @@ Create a platform and team that can achieve main goal of TickSheets
 ## Specifications
 A google sheets type stock tracker where users can comment on specific ticker symbols and have these comments tracked and updated on a clean 1 page stock stacker which tracks the best performing and most interesting stocks of the previous 30 days and is updated dynamically.
 
-## Milestones
-03/16/2021 Opened github repository
+## Requirements
++ Anaconda
++ PyMySQL 0.8.0
++ pandas_datareader 0.5.0
++ fix_yahoo_finance 0.0.21
