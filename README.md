@@ -11,6 +11,7 @@ A google sheets type stock tracker where users can comment on specific ticker sy
 
 ## Requirements
 + Anaconda
++ Paramiko
 + PyMySQL 0.8.0
 + pandas_datareader 0.5.0
 + fix_yahoo_finance 0.0.21
